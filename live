@@ -10,19 +10,19 @@
        "link":[
           {
              "type":"China HD",
-             "livelink":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
+             "livelink":"https://l1-xl1.myanmarnet.com/relay/mntfgfv/ch1/stream_hi/index.m3u8"
           },
           {
              "type":"China SD",
-             "livelink":"http://183.89.246.119:8881/play/a07w/index.m3u8"
+             "livelink":"http://183.89.246.119:8881/plfffay/a07w/index.m3u8"
           },
           {
              "type":"Soco HD",
-             "livelink":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
+             "livelink":"https://l1-xl1.myanmarnet.com/relay/mffntv/ch1/stream_hi/index.m3u8"
           },
           {
              "type":"Soco SD",
-             "livelink":"http://183.89.246.119:8881/play/a07w/index.m3u8"
+             "livelink":"http://183.89.246.119:8881/plfffay/a07w/index.m3u8"
           }
        ]
     },
