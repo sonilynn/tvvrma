@@ -1,0 +1,110 @@
+[
+    {
+       "league":" FIFA Women's World Cup ",
+       "himg":"https://mygoaltv.xyz//team/My.png",
+       "hteam":"Vietnam women",
+       "time":" live ",
+       "date":"7:30 AM",
+       "aimg":"https://mygoaltv.xyz//team/vietnam_svg.png",
+       "ateam":"USA women",
+       "link":[
+          {
+             "type":"China HD",
+             "livelink":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
+          },
+          {
+             "type":"China SD",
+             "livelink":"http://183.89.246.119:8881/play/a07w/index.m3u8"
+          },
+          {
+             "type":"Soco HD",
+             "livelink":"https://l1-xl1.myanmarnet.com/relay/mntv/ch1/stream_hi/index.m3u8"
+          },
+          {
+             "type":"Soco SD",
+             "livelink":"http://183.89.246.119:8881/play/a07w/index.m3u8"
+          }
+       ]
+    },
+    {
+       "league":" FIFA Women's World Cup ",
+       "himg":"https://mygoaltv.xyz//team/Zambia.png",
+       "hteam":"Japan women",
+       "time":" 1:30 PM ",
+       "date":"2023-07-22",
+       "aimg":"https://mygoaltv.xyz//team/Nhat.png",
+       "ateam":"Zambia Women",
+       "link":[
+          {
+             "type":"China HD",
+             "livelink":"0"
+          },
+          {
+             "type":"China SD",
+             "livelink":"0"
+          },
+          {
+             "type":"Soco HD",
+             "livelink":"0"
+          },
+          {
+             "type":"Soco SD",
+             "livelink":"0"
+          }
+       ]
+    },
+    {
+       "league":" FIFA Women's World Cup ",
+       "himg":"https://mygoaltv.xyz//team/Anh.png",
+       "hteam":"Haiti Women",
+       "time":" 4:00 PM ",
+       "date":"2023-07-22",
+       "aimg":"https://mygoaltv.xyz//team/Haiti.png",
+       "ateam":"England Women",
+       "link":[
+          {
+             "type":"China HD",
+             "livelink":"0"
+          },
+          {
+             "type":"China SD",
+             "livelink":"0"
+          },
+          {
+             "type":"Soco HD",
+             "livelink":"0"
+          },
+          {
+             "type":"Soco SD",
+             "livelink":"0"
+          }
+       ]
+    },
+    {
+       "league":" FIFA Women's World Cup ",
+       "himg":"https://mygoaltv.xyz//team/Denmark.png",
+       "hteam":"China Women",
+       "time":" 6:30 PM ",
+       "date":"2023-07-22",
+       "aimg":"https://mygoaltv.xyz//team/China.png",
+       "ateam":"Denmark women",
+       "link":[
+          {
+             "type":"China HD",
+             "livelink":"0"
+          },
+          {
+             "type":"China SD",
+             "livelink":"0"
+          },
+          {
+             "type":"Soco HD",
+             "livelink":"0"
+          },
+          {
+             "type":"Soco SD",
+             "livelink":"0"
+          }
+       ]
+    }
+ ]
