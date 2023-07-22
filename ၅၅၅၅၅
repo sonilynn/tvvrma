@@ -2,5 +2,8 @@
   "liveads":"https://raw.githubusercontent.com/loekarredirecting/livelist/main/live",
   "hiliads":"https://apkguidemm.net/lee/index.php",
   "tvads":"https://raw.githubusercontent.com/phoopyone/fbtv/main/tv",
-  "hiliextrack":"https://apkguidemm.net/lee/resptest.php"
+  "hiliextrack":"https://apkguidemm.net/lee/resptest.php",
+  "localad":true,
+  "localadimg":"https://i.imgur.com/aYHipO9.png",
+  "localadlink":"htts://github.com"
 }
